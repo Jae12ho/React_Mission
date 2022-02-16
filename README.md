@@ -1,4 +1,5 @@
 # React_Mission
+<<<<<<< HEAD
 
 ### 1차 미션 스크린샷
 
@@ -12,3 +13,5 @@
 
 ![image](https://user-images.githubusercontent.com/67782586/154324276-0bdd5300-566f-41db-9d51-f4c4e1221b16.png)
 
+=======
+>>>>>>> 52d290a0df27773a723a4e0c78742570f4e3c01b
