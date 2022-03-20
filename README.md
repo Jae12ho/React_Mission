@@ -29,7 +29,7 @@
 
 
 
-### 2차 미션 스크린샷
+### 3차 미션 스크린샷
 ##### Basic Mission
 ![Untitled](https://user-images.githubusercontent.com/67782586/159171403-a84cf87d-4686-4aaf-98d9-00d3e2e416ac.png)
 ![Untitled](https://user-images.githubusercontent.com/67782586/159171413-22d1e89b-7b56-471c-902e-61b85b065489.png)
@@ -39,3 +39,5 @@
 ##### Challenge Mission
 ![Untitled](https://user-images.githubusercontent.com/67782586/159171431-396177a6-997b-4415-802b-20ac812d1aaa.png)
 
+
+GitHub Page 주소 : https://jae12ho.github.io/react-netflix-clone/
